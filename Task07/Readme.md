@@ -2,12 +2,12 @@
 
 作业要求：
 
-![image-20201110200427126](E:\Document\Master\Homework\GameEngine\1004_EnginePrinciple-course07\image-20201110200427126.png)
+![image-20201110200427126](/image-20201110200427126.png)
 
 作业说明：
 
 - 建立好的场景为工程的..IMDT/COURSE/Homework.unity，具体效果如下所示：
 
-  ![image-20201110195242880](E:\Document\Master\Homework\GameEngine\1004_EnginePrinciple-course07\image-20201110195242880.png)
+  ![image-20201110195242880](/image-20201110195242880.png)
 
 - 本次作业为角色添加了攻击动画，其动作来自Unity Asset Store中的免费资源（虽然做出来有点简陋，但没基础的我也尽力去做A类了）
