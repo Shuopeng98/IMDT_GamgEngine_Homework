@@ -2,7 +2,7 @@
 
 作业要求：
 
-![image-20201109094600594](E:\Document\Master\Homework\GameEngine\1004_EnginePrinciple-course06\image-20201109094600594.png)
+![image-20201109094600594](https://github.com/Shuopeng98/IMDT_GamgEngine_Homework/blob/Task06/Task06/image-20201109094600594.png)
 
 作业说明：
 
