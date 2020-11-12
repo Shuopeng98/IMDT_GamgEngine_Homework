@@ -2,13 +2,13 @@
 
 作业要求：
 
-![image-20201109094600594](E:\Document\Master\Homework\GameEngine\1004_EnginePrinciple-course06\image-20201109094600594.png)
+![image-20201109094600594](./image-20201109094600594.png)
 
 作业说明：
 
 - 建立好的场景为工程的../Sences/Homework.unity，具体效果如下所示：
 
-  ![image-20201109100408315](E:\Document\Master\Homework\GameEngine\1004_EnginePrinciple-course06\image-20201109094948021.png)
+  ![image-20201109100408315](./image-20201109094948021.png)
 
 - 游戏场景为个人搭建，其中采用了Unity Asset Store 中免费素材：
 
