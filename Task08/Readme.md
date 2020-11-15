@@ -20,11 +20,11 @@
 
   3. 撞到目标物后，播放礼花效果。
 
-     ![crash](E:\Document\Master\Homework\GameEngine\Task08\crash.png)
+     ![crash](./crash.png)
 
   4. 与墙面碰撞时，产生火法效果。
 
-     ![bouncey](E:\Document\Master\Homework\GameEngine\Task08\bouncey.png)
+     ![bouncey](./bouncey.png)
 
      
 
