@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5aac0980fc560941902584cea932d86, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: fa4b358def0dec4da974ed61c1efa1bc
+    GuidInternal: 
+    m_lastTime: -8585954252163958801
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 3decac8ad7f8e746af2707e9449861cd
+    GuidInternal: 
+    m_lastTime: -8585954252166281240
+    List:
+    - name: Master Audio Bus
+      guid: d8a41415a61d2a41a17e75ca0c2149f3
+      id: 3803692087
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus
+  BankWwu:
+  - PhysicalPath: SoundBanks\AudioTest.wwu
+    PathAndIcons:
+    - ElementName: AudioTest
+      ObjectType: 12
+    ParentPath: AudioTest
+    guid: 591846dd9a96aa4c93617bf91f4f8ef6
+    GuidInternal: 
+    m_lastTime: -8585954096773799057
+    List:
+    - name: Main
+      guid: fa9f0da328f49048b2834e9b12ea5a27
+      id: 3161908922
+      PathAndIcons:
+      - ElementName: AudioTest
+        ObjectType: 12
+      - ElementName: Main
+        ObjectType: 7
+      Path: AudioTest\Main
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: e0b5908c38332b4e996f2528295c7fdc
+    GuidInternal: 
+    m_lastTime: -8585954252163988826
+    List: []
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: af386ab81360114098d0148bf6ca4e0d
+    GuidInternal: 
+    m_lastTime: -8585954252163998837
+    List: []
+  - PhysicalPath: Events\MainTest.wwu
+    PathAndIcons:
+    - ElementName: MainTest
+      ObjectType: 12
+    ParentPath: MainTest
+    guid: 811df0f78eb3094d8e1d5eecccacf870
+    GuidInternal: 
+    m_lastTime: -8585954061419698119
+    List:
+    - name: Footsteps
+      guid: 12da2ec4748bb04b867a1343bd2c52bc
+      id: 2385628198
+      PathAndIcons:
+      - ElementName: MainTest
+        ObjectType: 12
+      - ElementName: Walk
+        ObjectType: 4
+      - ElementName: Footsteps
+        ObjectType: 3
+      Path: MainTest\Walk\Footsteps
+      maxAttenuation: 25
+      maxDuration: 0.134785
+      minDuration: 0.08322
+    - name: Hardsteps
+      guid: 52b76f20733c2d4ab47a48528aa6b7d4
+      id: 3565787707
+      PathAndIcons:
+      - ElementName: MainTest
+        ObjectType: 12
+      - ElementName: Walk
+        ObjectType: 4
+      - ElementName: Hardsteps
+        ObjectType: 3
+      Path: MainTest\Walk\Hardsteps
+      maxAttenuation: 25
+      maxDuration: 0.214467
+      minDuration: 0.111043
+    - name: Walk
+      guid: 25eba29f806d794689385ed32683708c
+      id: 2108779966
+      PathAndIcons:
+      - ElementName: MainTest
+        ObjectType: 12
+      - ElementName: Walk
+        ObjectType: 4
+      Path: MainTest\Walk
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 6b1b31bc3017d346adddbc5cbd498b9f
+    GuidInternal: 
+    m_lastTime: -8585954252166231195
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 4f83d435f958ad4bbcf807bcf17b12b9
+    GuidInternal: 
+    m_lastTime: -8585954252166231195
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 3c54af3f659db340b153d9ccf728d0ac
+    GuidInternal: 
+    m_lastTime: -8585954252164018857
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 7a217f4fe76c094389e3762c8783d253
+    GuidInternal: 
+    m_lastTime: -8585954252163978818
+    List: []
+  ExpandedItems:
+  - /AudioDesign_WwiseProject
+  - /AudioDesign_WwiseProject/Events
+  - /AudioDesign_WwiseProject/Events/MainTest
+  - /AudioDesign_WwiseProject/Events/MainTest/Walk
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 

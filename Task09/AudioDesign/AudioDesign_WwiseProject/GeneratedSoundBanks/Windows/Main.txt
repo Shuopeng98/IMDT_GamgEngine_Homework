@@ -1,0 +1,28 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2385628198	Footsteps			\MainTest\Walk\Footsteps	
+	3565787707	Hardsteps			\MainTest\Walk\Hardsteps	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	3252534	Run_03	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Run_03_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Footsteps\Left\Run_03		23840
+	70317522	Run_07	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Run_07_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Footsteps\Right\Run_07		20764
+	102130789	Walk_06	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Walk_06_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Hardsteps\Right\Walk_06		29532
+	142315233	Run_05	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Run_05_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Footsteps\Left\Run_05		22284
+	252732621	Run_10	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Run_10_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Footsteps\Right\Run_10		19144
+	403743982	Walk_10	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Walk_10_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Hardsteps\Right\Walk_10		19652
+	404147578	Run_02	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Run_02_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Footsteps\Left\Run_02		19828
+	449837107	Run_04	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Run_04_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Footsteps\Left\Run_04		21524
+	485026462	Walk_02	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Walk_02_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Hardsteps\Left\Walk_02		21368
+	508106767	Run_11	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Run_11_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Footsteps\Right\Run_11		21012
+	529717560	Walk_05	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Walk_05_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Hardsteps\Left\Walk_05		23324
+	546606327	Walk_07	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Walk_07_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Hardsteps\Right\Walk_07		28404
+	601802103	Run_09	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Run_09_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Footsteps\Right\Run_09		23324
+	613612058	Run_06	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Run_06_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Footsteps\Left\Run_06		14744
+	757712091	Walk_08	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Walk_08_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Hardsteps\Right\Walk_08		37896
+	779891218	Walk_09	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Walk_09_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Hardsteps\Right\Walk_09		23792
+	781480680	Run_01	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Run_01_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Footsteps\Left\Run_01		19208
+	844997005	Walk_04	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Walk_04_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Hardsteps\Left\Walk_04		29976
+	904509855	Walk_03	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Walk_03_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Hardsteps\Left\Walk_03		30072
+	931414555	Run_12	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Run_12_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Footsteps\Right\Run_12		16940
+	946738531	Run_08	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Run_08_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Footsteps\Right\Run_08		19904
+	1008619422	Walk_01	E:\Document\Master\Homework\GameEngine\Task09\AudioDesign\AudioDesign_WwiseProject\.cache\Windows\SFX\Walk_01_10C4C929.wem		\Actor-Mixer Hierarchy\Audio\Test\Hardsteps\Left\Walk_01		27128
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F7F01D81-B38E-4D09-8E1D-5EECCCACF870}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="MainTest" ID="{F7F01D81-B38E-4D09-8E1D-5EECCCACF870}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Walk" ID="{9FA2EB25-6D80-4679-8938-5ED32683708C}" ShortID="103486647">
+					<ChildrenList>
+						<Event Name="Footsteps" ID="{C42EDA12-8B74-4BB0-867A-1343BD2C52BC}">
+							<ChildrenList>
+								<Action Name="" ID="{D4CEC162-6229-4145-BF57-2DBA3CB39D20}" ShortID="973035182">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Footsteps" ID="{2540754B-E33F-4245-B698-84DE49A12028}" WorkUnitID="{5500C0A9-8482-4C87-92FD-C9D7FF3E8995}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Hardsteps" ID="{206FB752-3C73-4A2D-B47A-48528AA6B7D4}">
+							<ChildrenList>
+								<Action Name="" ID="{F2B7FCD0-1428-4409-B584-F0A4A87EE58F}" ShortID="258431854">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Hardsteps" ID="{0CFB94BB-7C08-4C74-9E08-B83E2159D5B3}" WorkUnitID="{5500C0A9-8482-4C87-92FD-C9D7FF3E8995}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
