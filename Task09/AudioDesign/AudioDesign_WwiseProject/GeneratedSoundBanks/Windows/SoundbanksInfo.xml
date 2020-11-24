@@ -16,18 +16,22 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="3161908922" Language="SFX" Hash="1042217941">
+		<SoundBank Id="3161908922" Language="SFX" Hash="519584925">
 			<ObjectPath>\SoundBanks\AudioTest\Main</ObjectPath>
 			<ShortName>Main</ShortName>
 			<Path>Main.bnk</Path>
 			<IncludedEvents>
-				<Event Id="2385628198" Name="Footsteps" ObjectPath="\Events\MainTest\Walk\Footsteps" MaxAttenuation="25.000000" DurationType="OneShot" DurationMin="0.083220" DurationMax="0.134785"/>
-				<Event Id="3565787707" Name="Hardsteps" ObjectPath="\Events\MainTest\Walk\Hardsteps" MaxAttenuation="25.000000" DurationType="OneShot" DurationMin="0.111043" DurationMax="0.214467"/>
+				<Event Id="2385628198" Name="Footsteps" ObjectPath="\Events\MainTest\Walk\Footsteps" MaxAttenuation="25.000000" DurationType="OneShot" DurationMin="0.241338" DurationMax="0.450000"/>
+				<Event Id="3565787707" Name="Hardsteps" ObjectPath="\Events\MainTest\Walk\Hardsteps" MaxAttenuation="25.000000" DurationType="OneShot" DurationMin="0.241338" DurationMax="0.450000"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
 				<File Id="3252534" Language="SFX">
 					<ShortName>Run_03.wav</ShortName>
 					<Path>SFX\Run_03_10C4C929.wem</Path>
+				</File>
+				<File Id="60652194" Language="SFX">
+					<ShortName>Gak_07.wav</ShortName>
+					<Path>SFX\Gak_07_10C4C929.wem</Path>
 				</File>
 				<File Id="70317522" Language="SFX">
 					<ShortName>Run_07.wav</ShortName>
@@ -40,6 +44,14 @@
 				<File Id="142315233" Language="SFX">
 					<ShortName>Run_05.wav</ShortName>
 					<Path>SFX\Run_05_10C4C929.wem</Path>
+				</File>
+				<File Id="152593611" Language="SFX">
+					<ShortName>Gak_06.wav</ShortName>
+					<Path>SFX\Gak_06_10C4C929.wem</Path>
+				</File>
+				<File Id="197083289" Language="SFX">
+					<ShortName>Gak_03.wav</ShortName>
+					<Path>SFX\Gak_03_10C4C929.wem</Path>
 				</File>
 				<File Id="252732621" Language="SFX">
 					<ShortName>Run_10.wav</ShortName>
@@ -65,6 +77,10 @@
 					<ShortName>Run_11.wav</ShortName>
 					<Path>SFX\Run_11_10C4C929.wem</Path>
 				</File>
+				<File Id="529574534" Language="SFX">
+					<ShortName>Gak_02.wav</ShortName>
+					<Path>SFX\Gak_02_10C4C929.wem</Path>
+				</File>
 				<File Id="529717560" Language="SFX">
 					<ShortName>Walk_05.wav</ShortName>
 					<Path>SFX\Walk_05_10C4C929.wem</Path>
@@ -73,6 +89,10 @@
 					<ShortName>Walk_07.wav</ShortName>
 					<Path>SFX\Walk_07_10C4C929.wem</Path>
 				</File>
+				<File Id="571346505" Language="SFX">
+					<ShortName>Gak_04.wav</ShortName>
+					<Path>SFX\Gak_04_10C4C929.wem</Path>
+				</File>
 				<File Id="601802103" Language="SFX">
 					<ShortName>Run_09.wav</ShortName>
 					<Path>SFX\Run_09_10C4C929.wem</Path>
@@ -80,6 +100,10 @@
 				<File Id="613612058" Language="SFX">
 					<ShortName>Run_06.wav</ShortName>
 					<Path>SFX\Run_06_10C4C929.wem</Path>
+				</File>
+				<File Id="662217886" Language="SFX">
+					<ShortName>Gak_11.wav</ShortName>
+					<Path>SFX\Gak_11_10C4C929.wem</Path>
 				</File>
 				<File Id="757712091" Language="SFX">
 					<ShortName>Walk_08.wav</ShortName>
@@ -97,6 +121,14 @@
 					<ShortName>Walk_04.wav</ShortName>
 					<Path>SFX\Walk_04_10C4C929.wem</Path>
 				</File>
+				<File Id="885090821" Language="SFX">
+					<ShortName>Gak_01.wav</ShortName>
+					<Path>SFX\Gak_01_10C4C929.wem</Path>
+				</File>
+				<File Id="891410034" Language="SFX">
+					<ShortName>Gak_10.wav</ShortName>
+					<Path>SFX\Gak_10_10C4C929.wem</Path>
+				</File>
 				<File Id="904509855" Language="SFX">
 					<ShortName>Walk_03.wav</ShortName>
 					<Path>SFX\Walk_03_10C4C929.wem</Path>
@@ -108,6 +140,10 @@
 				<File Id="946738531" Language="SFX">
 					<ShortName>Run_08.wav</ShortName>
 					<Path>SFX\Run_08_10C4C929.wem</Path>
+				</File>
+				<File Id="972824526" Language="SFX">
+					<ShortName>Gak_09.wav</ShortName>
+					<Path>SFX\Gak_09_10C4C929.wem</Path>
 				</File>
 				<File Id="1008619422" Language="SFX">
 					<ShortName>Walk_01.wav</ShortName>

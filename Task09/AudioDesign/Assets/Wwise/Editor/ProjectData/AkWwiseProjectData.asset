@@ -49,7 +49,7 @@ MonoBehaviour:
     ParentPath: AudioTest
     guid: 591846dd9a96aa4c93617bf91f4f8ef6
     GuidInternal: 
-    m_lastTime: -8585954096773799057
+    m_lastTime: -8585954053856298706
     List:
     - name: Main
       guid: fa9f0da328f49048b2834e9b12ea5a27
@@ -86,7 +86,7 @@ MonoBehaviour:
     ParentPath: MainTest
     guid: 811df0f78eb3094d8e1d5eecccacf870
     GuidInternal: 
-    m_lastTime: -8585954061419698119
+    m_lastTime: -8585954024777461977
     List:
     - name: Footsteps
       guid: 12da2ec4748bb04b867a1343bd2c52bc
@@ -100,8 +100,8 @@ MonoBehaviour:
         ObjectType: 3
       Path: MainTest\Walk\Footsteps
       maxAttenuation: 25
-      maxDuration: 0.134785
-      minDuration: 0.08322
+      maxDuration: 0.45
+      minDuration: 0.241338
     - name: Hardsteps
       guid: 52b76f20733c2d4ab47a48528aa6b7d4
       id: 3565787707
@@ -114,8 +114,8 @@ MonoBehaviour:
         ObjectType: 3
       Path: MainTest\Walk\Hardsteps
       maxAttenuation: 25
-      maxDuration: 0.214467
-      minDuration: 0.111043
+      maxDuration: 0.45
+      minDuration: 0.241338
     - name: Walk
       guid: 25eba29f806d794689385ed32683708c
       id: 2108779966

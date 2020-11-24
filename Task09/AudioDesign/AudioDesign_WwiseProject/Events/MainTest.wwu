@@ -14,6 +14,13 @@
 										</Reference>
 									</ReferenceList>
 								</Action>
+								<Action Name="" ID="{C61794B9-9EFD-448E-838D-64055FBA04B9}" ShortID="674121974">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Gak" ID="{6197298F-A1D0-438B-A4FB-DCE2E6936E2A}" WorkUnitID="{5500C0A9-8482-4C87-92FD-C9D7FF3E8995}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
 							</ChildrenList>
 						</Event>
 						<Event Name="Hardsteps" ID="{206FB752-3C73-4A2D-B47A-48528AA6B7D4}">
@@ -22,6 +29,13 @@
 									<ReferenceList>
 										<Reference Name="Target">
 											<ObjectRef Name="Hardsteps" ID="{0CFB94BB-7C08-4C74-9E08-B83E2159D5B3}" WorkUnitID="{5500C0A9-8482-4C87-92FD-C9D7FF3E8995}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+								<Action Name="" ID="{AF1E9B1B-4493-4E6C-AB78-0938FAE313B4}" ShortID="454965222">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Gak" ID="{6197298F-A1D0-438B-A4FB-DCE2E6936E2A}" WorkUnitID="{5500C0A9-8482-4C87-92FD-C9D7FF3E8995}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>

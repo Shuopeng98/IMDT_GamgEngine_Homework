@@ -1827,6 +1827,224 @@
 								<ItemRef Name="Right" ID="{FDEC17EA-5747-4122-99A2-40045AEA1D1D}"/>
 							</Playlist>
 						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="Gak" ID="{6197298F-A1D0-438B-A4FB-DCE2E6936E2A}" ShortID="217595490">
+							<PropertyList>
+								<Property Name="RandomAvoidRepeatingCount" Type="int32" Value="3"/>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-11</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA4DECED-71BA-49FC-B27A-3E0D3F719011}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8AACEC3D-F8D7-46E7-AF27-07E9449861CD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="Gak_01" ID="{D53555BF-8944-4FE5-8AB3-BF70D2B3966A}" ShortID="411181911">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA4DECED-71BA-49FC-B27A-3E0D3F719011}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8AACEC3D-F8D7-46E7-AF27-07E9449861CD}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Gak_01" ID="{FB4A3D5C-9B13-4523-BA35-40FE59AFF609}">
+											<Language>SFX</Language>
+											<AudioFile>Gak_01.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="885090821"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Gak_01" ID="{FB4A3D5C-9B13-4523-BA35-40FE59AFF609}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Gak_02" ID="{43FE3BEB-945E-4A43-AD6F-F807E2D7534B}" ShortID="944050817">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA4DECED-71BA-49FC-B27A-3E0D3F719011}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8AACEC3D-F8D7-46E7-AF27-07E9449861CD}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Gak_02" ID="{708D4FFC-957C-4EAE-9B44-F2201FA8CB38}">
+											<Language>SFX</Language>
+											<AudioFile>Gak_02.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="529574534"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Gak_02" ID="{708D4FFC-957C-4EAE-9B44-F2201FA8CB38}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Gak_03" ID="{ED740A87-8576-489C-83E8-E468292921C0}" ShortID="519870573">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA4DECED-71BA-49FC-B27A-3E0D3F719011}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8AACEC3D-F8D7-46E7-AF27-07E9449861CD}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Gak_03" ID="{6BA45CA2-582E-405A-A3CA-7E29BB0EF2B2}">
+											<Language>SFX</Language>
+											<AudioFile>Gak_03.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="197083289"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Gak_03" ID="{6BA45CA2-582E-405A-A3CA-7E29BB0EF2B2}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Gak_04" ID="{D5AB1718-2699-40F8-9F65-ED5ABE4224CC}" ShortID="455968571">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA4DECED-71BA-49FC-B27A-3E0D3F719011}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8AACEC3D-F8D7-46E7-AF27-07E9449861CD}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Gak_04" ID="{E3105E9B-B928-4817-86CC-9773F56BBEC2}">
+											<Language>SFX</Language>
+											<AudioFile>Gak_04.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="571346505"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Gak_04" ID="{E3105E9B-B928-4817-86CC-9773F56BBEC2}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Gak_06" ID="{E63EEC39-6A17-4ABF-98A7-D863B31C91AC}" ShortID="185622309">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA4DECED-71BA-49FC-B27A-3E0D3F719011}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8AACEC3D-F8D7-46E7-AF27-07E9449861CD}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Gak_06" ID="{1D640A14-2DA8-42BB-9AAB-2FA554500B5E}">
+											<Language>SFX</Language>
+											<AudioFile>Gak_06.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="152593611"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Gak_06" ID="{1D640A14-2DA8-42BB-9AAB-2FA554500B5E}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Gak_07" ID="{5E21706F-CA9A-4539-BE61-2C948F4EA4F4}" ShortID="884830187">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA4DECED-71BA-49FC-B27A-3E0D3F719011}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8AACEC3D-F8D7-46E7-AF27-07E9449861CD}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Gak_07" ID="{AE7CEE4C-95D2-4BF2-ACAD-E55FD695AC55}">
+											<Language>SFX</Language>
+											<AudioFile>Gak_07.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="60652194"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Gak_07" ID="{AE7CEE4C-95D2-4BF2-ACAD-E55FD695AC55}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Gak_09" ID="{9AD31C75-D69B-4583-B5BB-77C1808FFAB3}" ShortID="573691206">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA4DECED-71BA-49FC-B27A-3E0D3F719011}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8AACEC3D-F8D7-46E7-AF27-07E9449861CD}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Gak_09" ID="{CAF0748A-515A-44F6-975B-A1DC21AC0B88}">
+											<Language>SFX</Language>
+											<AudioFile>Gak_09.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="972824526"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Gak_09" ID="{CAF0748A-515A-44F6-975B-A1DC21AC0B88}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Gak_10" ID="{B5CF3F22-AF51-4C44-A7FB-5CC4CA10F787}" ShortID="19819935">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA4DECED-71BA-49FC-B27A-3E0D3F719011}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8AACEC3D-F8D7-46E7-AF27-07E9449861CD}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Gak_10" ID="{10A2B03E-7022-4F8D-A910-6552AEEE459D}">
+											<Language>SFX</Language>
+											<AudioFile>Gak_10.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="891410034"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Gak_10" ID="{10A2B03E-7022-4F8D-A910-6552AEEE459D}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Gak_11" ID="{0056BB26-DC07-438E-BDFF-32375B673D48}" ShortID="1038230580">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EA4DECED-71BA-49FC-B27A-3E0D3F719011}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8AACEC3D-F8D7-46E7-AF27-07E9449861CD}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Gak_11" ID="{F6CA9494-99A0-4DBC-9392-388095CC9DA1}">
+											<Language>SFX</Language>
+											<AudioFile>Gak_11.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="662217886"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="Gak_11" ID="{F6CA9494-99A0-4DBC-9392-388095CC9DA1}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
 					</ChildrenList>
 					<PositioningInfo>
 						<Position Name="" ID="{3FF4ABF2-3795-418C-9C7B-D4F779419A5A}">
